@@ -21,3 +21,9 @@ Esse repositório tem como objetivo trazer uma lista das nossas últimas publica
 -[Customizando vários subplots no Matplotlib](https://medium.com/neurondsai/customizando-v%C3%A1rios-subplots-no-matplotlib-b8c51bc640bb)
 
 -[Como fazer uma regressão linear utilizando a elegância da álgebra linear e enxergar além do código](https://medium.com/neurondsai/como-fazer-uma-regress%C3%A3o-linear-utilizando-a-eleg%C3%A2ncia-da-%C3%A1lgebra-linear-e-enxergar-al%C3%A9m-do-c%C3%B3digo-666a05706197)
+
+
+
+
+- Projetos Machine Learning:
+- [Random Forest Regressor](https://medium.com/neurondsai/como-fazer-uma-regress%C3%A3o-linear-utilizando-a-eleg%C3%A2ncia-da-%C3%A1lgebra-linear-e-enxergar-al%C3%A9m-do-c%C3%B3digo-666a05706197)
