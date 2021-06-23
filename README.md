@@ -26,4 +26,5 @@ Esse repositório tem como objetivo trazer uma lista das nossas últimas publica
 
 
 - Projetos Machine Learning:
+
 -[Random Forest Regressor](https://github.com/nayanemaia/Datsc-neuron/blob/main/Medium_RandomForestRegressor.ipynb)
