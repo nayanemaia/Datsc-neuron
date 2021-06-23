@@ -26,4 +26,4 @@ Esse repositório tem como objetivo trazer uma lista das nossas últimas publica
 
 
 - Projetos Machine Learning:
-- [Random Forest Regressor](https://medium.com/neurondsai/como-fazer-uma-regress%C3%A3o-linear-utilizando-a-eleg%C3%A2ncia-da-%C3%A1lgebra-linear-e-enxergar-al%C3%A9m-do-c%C3%B3digo-666a05706197)
+-[Random Forest Regressor](https://github.com/nayanemaia/Datsc-neuron/blob/main/Medium_RandomForestRegressor.ipynb)
